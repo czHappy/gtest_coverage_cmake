@@ -32,7 +32,7 @@ jobs:
           files: ./build/coverage.xml
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v4
-         with:
+        with:
           files: build/coverage.xml
           token: ${{ secrets.CODECOV_TOKEN }}
 
