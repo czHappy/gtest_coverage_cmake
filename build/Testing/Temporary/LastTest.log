@@ -1,0 +1,32 @@
+Start testing: Jun 22 10:57 CST
+----------------------------------------------------------
+1/1 Testing: MathUnitTest
+1/1 Test: MathUnitTest
+Command: "/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/test_math"
+Directory: /home/plusai/workspace/cpptest/gtest_coverage_cmake/build
+"MathUnitTest" start time: Jun 22 10:57 CST
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from MathTest
+[ RUN      ] MathTest.Add
+[       OK ] MathTest.Add (0 ms)
+[ RUN      ] MathTest.Sub
+[       OK ] MathTest.Sub (0 ms)
+[----------] 2 tests from MathTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+libgcov profiling error:/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/math.dir/src/math.cpp.gcda:overwriting an existing profile data with a different timestamp
+libgcov profiling error:/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/test_math.dir/test/test_math.cpp.gcda:overwriting an existing profile data with a different timestamp
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MathUnitTest" end time: Jun 22 10:57 CST
+"MathUnitTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 22 10:57 CST

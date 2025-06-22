@@ -1,0 +1,6 @@
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/math.dir
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/test_math.dir
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/coverage.dir
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/test.dir
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/edit_cache.dir
+/home/plusai/workspace/cpptest/gtest_coverage_cmake/build/CMakeFiles/rebuild_cache.dir
